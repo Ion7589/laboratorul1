@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <title>Catalog Laptopuri</title>
+  <link rel="stylesheet" href="CSS.css">
+</head>
+<body>
+
+  <h1>Catalog de Laptopuri</h1>
+
+  <div class="search-container">
+    <input type="text" id="searchInput" placeholder="Caută un laptop...">
+  </div>
+
+  <div class="catalog" id="catalog">
+
+    
+    <div class="product">
+      <img src="https://enter.online/storage/media/178092/2213_1723559651473.png" class="left-img">
+      <h2>Laptop Asus TUF Gaming</h2>
+      <p>Procesor AMD, Ryzen 7, 16GB RAM, GeForce RTX 4060, SSD 512GB</p>
+      <span class="Prețul">24.990Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-asus-tuf-gaming-a15-fa507nvr-ryzen-7-7435hs-16-gb-512-gb-geforce-rtx-4060-gray.html" class="btn" target="_blank">Detalii</a>
+    </div>
+
+    <div class="product">
+      <img src="https://neocomputer.md/image/cache/data/Notebook/Asus/Asus%20ROG%20Zephyrus%20G16%20GU605MV,%20Eclipse%20Gray_1-600x600.jpg" class="right-img">
+      <h2>Laptop Asus ROG Zephyrus</h2>
+      <p>Procesor AMD, Ryzen 9, 32GB RAM, GeForce RTX 4060, SSD 1TB</p>
+      <span class="Prețul">37.195Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-asus-rog-zephyrus-g16-gu603vv-core-i7-13620h-16-gb-1-tb-geforce-rtx-4060-gray-freedos.html" class="btn" target="_blank">Detalii</a>
+    </div>
+
+    <div class="product">
+      <img src="https://darwin.md/media/665379/conversions/darwin-laptop-lenovo-legion-pro-5-16irx9-onyx-gray-957258-preview-webp.png" alt="Laptop Lenovo Legion">
+      <h2>Laptop Lenovo Legion 5</h2>
+      <p>Procesor Intel i7, 32GB RAM, GeForce RTX 4070, SSD 1TB</p>
+      <span class="Prețul">38.990Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-lenovo-legion-slim-5-16ahp9-ryzen-7-8845hs-32-gb-1-tb-geforce-rtx-4070-gray.html" class="btn" target="_blank">Detalii</a>
+    </div>
+
+    <div class="product">
+      <img src="https://neocomputer.md/image/cache/webp/catalog/category%20image/Acer%20Aspire%2015%20A15-41M-800x800.webp" alt="Acer Aspire 15">
+      <h2>Acer Aspire 15</h2>
+      <p>Procesor i5, 8GB RAM, GeForce RTX 2050, SSD 512GB</p>
+      <span class="Prețul">13.185Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-acer-aspire-go-15-ag15-51p-core-i5-1334u-16-gb-512-gb-vga-integrata-gray.html" class="btn" target="_blank">Detalii</a>
+    </div>
+
+    <div class="product">
+      <img src="https://darwin.md/media/500698/conversions/darwin-laptop-lenovo-ideapad-gaming-3-15ach6kjre-shadow-black-028-preview-webp.png" alt="Lenovo IdeaPad Gaming 3">
+      <h2>Lenovo IdeaPad Gaming 3</h2>
+      <p>Procesor Intel i7, 16GB RAM, GeForce RTX 2050, SSD 512GB</p>
+      <span class="Prețul">14.990Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-lenovo-ideapad-gaming-3-15ach6kjre-shadow-black.html" class="btn" target="_blank">Detalii</a>
+    </div>
+
+    <div class="product">
+      <img src="https://darwin.md/media/647851/conversions/darwin-laptop-acer-nitro-v-15-anv15-41-r1zv-black-867389-preview-webp.png" alt="Acer Nitro V 15">
+      <h2>Acer Nitro V 15</h2>
+      <p>Procesor AMD Radeon 660M, 16GB RAM, GeForce RTX 2050, SSD 1TB</p>
+      <span class="Prețul">16.290Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-acer-nitro-v-15-anv15-41-r1zv-ryzen-5-7535hs-16-gb-geforce-rtx-2050-black.html" class="btn" target="_blank">Detalii</a>
+    </div>
+
+
+    <div class="product">
+      <img src="https://darwin.md/media/488703/conversions/darwin-laptop-lenovo-ideapad-5-15alc05t1re-graphite-gray-040-preview-webp.png" alt="ASUS Vivobook">
+      <h2>ASUS Vivobook 15</h2>
+      <p>Procesor AMD Radeon, 8GB RAM,Ryzen 5, SSD 512GB, "</p>
+      <span class="Prețul">8.490Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-lenovo-ideapad-5-15alc05t1re-graphite-gray.html#nav-info-product" class="btn" target="_blank">Detalii</a>
+    </div>
+
+    <div class="product">
+      <img src="https://darwin.md/media/747375/conversions/r67fgyh_1741703690884-preview-webp.png" alt="Asus VivoBook S 15">
+      <h2>Asus VivoBook S 15</h2>
+      <p>Procesor Core Ultra 5, 16GB RAM, Ryzen 7 , SSD 512GB</p>
+      <span class="Prețul">16.490Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-acer-swift-go-sfg14-63-ryzen-7-8845hs-16-gb-512-gb-vga-integrata-gray.html#nav-info-product" class="btn" target="_blank">Detalii</a>
+    </div>
+
+    <div class="product">
+      <img src="https://darwin.md/media/361536/conversions/asus_tuf_fx505dt_black_1-preview-webp.png" alt="Asus TUF FX505DT">
+      <h2>Asus TUF FX505DT</h2>
+      <p>Procesor Radeon Vega 8, 16GB RAM,Ryzen 5 3550H, SSD 512GB</p>
+      <span class="Prețul">15.990Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-asus-tuf-fx505dt-al08-black.html#nav-info-product" class="btn" target="_blank">Detalii</a>
+    </div>
+
+    <div class="product">
+      <img src="https://darwin.md/media/608034/conversions/darwin-laptop-apple-macbook-air-15-2024-space-gray-437405-preview-webp.png" alt="Apple MacBook Air 15">
+      <h2>Apple MacBook Air 15</h2>
+      <p>Procesor Apple, 16GB,Apple M3 Graphics, SSD 512GB</p>
+      <span class="Prețul">31.990Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-apple-macbook-air-15-2024-m3-c8-g10-16-gb-512-gb-vga-integrata-gray.html" class="btn" target="_blank">Detalii</a>
+    </div>
+
+    <div class="product">
+      <img src="https://darwin.md/media/675326/conversions/udc_1730211844528-preview-webp.png" alt="Lenovo ThinkPad T16">
+      <h2>Lenovo ThinkPad T16</h2>
+      <p>Procesor Intel Core i7, 32GB RAM,GeForce RTX 4060, SSD 1TB</p>
+      <span class="Prețul">29.990Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-lenovo-thinkpad-t16-gen-3-core-i7-155u-32-gb-1-tb-vga-integrata-black.html#nav-info-product" class="btn" target="_blank">Detalii</a>
+    </div>
+
+    <div class="product">
+      <img src="https://darwin.md/media/680993/conversions/78_1731074675117-preview-webp.png" alt="Acer Predator Helios">
+      <h2>Acer Predator Helios</h2>
+      <p>Procesor Intel Core i9 , 32GB RAM,GeForce RTX 4070,SSD 1TB</p>
+      <span class="Prețul">31.990Lei</span>
+      <br>
+      <a href="https://darwin.md/laptop-acer-predator-helios-neo-18-phn18-71-core-i9-14900hx-32-gb-1-tb-geforce-rtx-4060-black-freedos.html#product-1" class="btn" target="_blank">Detalii</a>
+    </div>
+
+  </div>
+  
+
+</body>
+</html>
